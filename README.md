@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=Hello%20BaejimilWorld!&fontColor=d6ace6)
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Baejimeel%20Github&fontSize=80)
 # 배종현 이력서
 
 ### 1. 개인 정보ℹ️
@@ -16,8 +15,8 @@
 
 ### 3. 경험 및 이력💻
 ***
-* 이즈미디어 H/W개발 부서에서 2개월간 단기 현장실습 진행 ( 보드판에 FND를 이용하여 스톱워치 구현 )
-* 대학교애서 진행하는 공모전에서 C언어를 사용하여 거리에 대한 센서의 값을 받아 카드 잔액이 차감되는 교통카드 하이패스 단말기 제작
+* 이즈미디어 H/W개발 부서에서 2개월간 단기 현장실습 진행 ( 보드판 FND를 이용하여 스톱워치 구현 )
+* 대학교 공모전에서 **C언어**를 사용하여 거리에 대한 센서의 값을 받아 카드 잔액이 차감되는 교통카드 하이패스 단말기 제작
 * 한국표준협회에서 진행하는 혁신성장 청년인재 집중양성 6개월 과정 이수
 * 위 과정에서 참여한 팀프로젝트 MDCIM System 백엔드 서버 담당 [MDCIM System](https://github.com/baejimil/Project_final)
 * 한국기술교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료 ( 로봇 팔 제어 순서도 직접 작성하고 프로그램 이용하여 물건 위치 옮기기, 여러 개의 장애물 수거 등 )
