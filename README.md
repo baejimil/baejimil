@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?text=Hello%20BaejimilWorld!)
+![header](https://capsule-render.vercel.app/api?text=Hello%20BaejimilWorld!&fontColor=d6ace6)
 
 # Hello Baejimil World!
 <!--
