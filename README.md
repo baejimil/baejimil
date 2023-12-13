@@ -3,11 +3,13 @@
 ![header](https://capsule-render.vercel.app/api?text=Hello%20BaejimilWorld!&fontColor=d6ace6)
 
 # Hello Baejimil World!
+
+:wrench: Skill
+
 <!--
 **baejimil/baejimil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-:wrench: Skill
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
