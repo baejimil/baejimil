@@ -2,27 +2,25 @@
 
 ![header](https://capsule-render.vercel.app/api?text=Hello%20BaejimilWorld!&fontColor=d6ace6)
 
-# 김이진 이력서
+# 배종현 이력서
 
 ### 1. 개인 정보ℹ️
 ***
 이름 | 생년월일 | 이메일
 --- | --- | --- |
-김이진 | 1998.09.25 | namesclaire@gmail.com
+배종현 | 1995.01.25 | qowhdgus629@gmail.com
 
 ### 2. 학력 사항🎓
 ***
-* **충남대학교, 대한민국**, 2017-2022, 경영학부, 학사
-* **Université de Lille, Lille, France**, 2021.09-2021.12, International Finance, L3
+* **가천대학교, 대한민국**, 2014-2020, IT대학 전자공학과, 학사
 
 ### 3. Programming Skill 및 컴퓨터 지식💻
 ***
-* 2022.06 : <그림으로 이해하는 AWS 구조와 기술>, <비전공자를 위한 이해할 수 있는 IT 지식> 등의 도서를 통해 컴퓨터, 클라우드 관련 기초 지식 습득
-* 2022.06-07 : 충남대학교 SW ACADEMY AI/데이터 트랙 참여   
-   파이썬 기초 문법 학습 (프로그래머스) - [학습 일지](https://blog.naver.com/codeclaire/222804458267)
-* 2022.07, 1주차 : 프로그래밍 기초 (파이썬으로 데이터 다루기 및 시각화하기) - Numpy, Pandas, Matplotlib
-* 2022.07, 2-3주차 : 웹서비스 이론 및 구축 실습
-* 2022.07, 4주차 : 데이터 수집 및 관리
+* 대학교애서 진행하는 공모전에서 C언어를 사용하여 거리에 대한 센서의 값을 받아 카드 잔액이 차감되는 교통카드 하이패스 단말기 제작
+* 한국표준협회에서 진행하는 혁신성장 청년인재 집중양성 6개월 과정 이수
+* 위 과정에서 참여한 팀프로젝트 MDCIM System 백엔드 서버 담당 [Basic Natural Language Processing](https://github.com/cestclaire/basic_natural_language_processing)
+* 한국기교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료
+* 
 * 2022.08, 1주차 : 비정형 데이터 활용 분석 프로젝트
 * 2022.08, 2주차 : 머신러닝 이론 및 실습
 * 2022.08, 3주차 : 딥러닝 이론 및 실습
