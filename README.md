@@ -21,9 +21,6 @@
 * 위 과정에서 참여한 팀프로젝트 MDCIM System 백엔드 서버 담당 [Basic Natural Language Processing](https://github.com/cestclaire/basic_natural_language_processing)
 * 한국기술교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료
 * 
-<img src="https://github-readme-stats.vercel.app/api?username=baejimil&amp;show_icons=true&amp;theme=radical" alt="Anurag's github stats">  <a href="https://github.com/metleeha">
-<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p>
-
 * 2022.08, 1주차 : 비정형 데이터 활용 분석 프로젝트
 * 2022.08, 2주차 : 머신러닝 이론 및 실습
 * 2022.08, 3주차 : 딥러닝 이론 및 실습
@@ -47,6 +44,9 @@ JAVA 스터디 | 2022.08 - 2022.10 | 모각코 팀원들과 일주일에 3-4회 
 ***
 * 2022.10 : 아이티센 기업 멘토링/ 팀 프로젝트 : 클라우드와 ELK를 활용한 데이터 인사이트 만들기 프로젝트
 
+<img src="https://github-readme-stats.vercel.app/api?username=baejimil&amp;show_icons=true&amp;theme=radical" alt="Anurag's github stats">  <a href="https://github.com/metleeha">
+<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p>
+
 :wrench: Skill
 
 
@@ -60,7 +60,7 @@ JAVA 스터디 | 2022.08 - 2022.10 | 모각코 팀원들과 일주일에 3-4회 
 
 
 
-
+<p class="has-line-data" data-line-start="0" data-line-end="1">&lt;a href=&quot;<a href="https://instagram.com/fivepxint">https://instagram.com/fivepxint</a>“&gt;    &lt;img         src=”<a href="http://img.shields.io/badge/-Instagram-black?style=flat&amp;logo=Instagram&amp;link=https://instagram.com/fivepxint/">http://img.shields.io/badge/-Instagram-black?style=flat&amp;logo=Instagram&amp;link=https://instagram.com/fivepxint/</a>&quot;        style=“height : auto; margin-left : 10px; margin-right : 10px;”/&gt;&lt;/a&gt;</p>
  
 <!--
 **baejimil/baejimil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
