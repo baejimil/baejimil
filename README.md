@@ -51,14 +51,6 @@ JAVA 스터디 | 2022.08 - 2022.10 | 모각코 팀원들과 일주일에 3-4회 
 
 
 
-<div align=center>
-<h1>👋 Hi, I’m @baejimil </h1>
-</div> 
-<div align=center> 
-![Baejimil's github stats](https://github-readme-stats.vercel.app/api?username=baejimil&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&layout=compact&theme=dracula)(https://github.com/baejimil)
-
-
 
 <p class="has-line-data" data-line-start="0" data-line-end="1">&lt;a href=&quot;<a href="https://instagram.com/fivepxint">https://instagram.com/fivepxint</a>“&gt;    &lt;img         src=”<a href="http://img.shields.io/badge/-Instagram-black?style=flat&amp;logo=Instagram&amp;link=https://instagram.com/fivepxint/">http://img.shields.io/badge/-Instagram-black?style=flat&amp;logo=Instagram&amp;link=https://instagram.com/fivepxint/</a>&quot;        style=“height : auto; margin-left : 10px; margin-right : 10px;”/&gt;&lt;/a&gt;</p>
  
