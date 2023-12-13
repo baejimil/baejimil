@@ -5,7 +5,7 @@
 # Hello Baejimil World!
 
 :wrench: Skill
-
+ <img src="https://img.shields.io/badge/React?style=flat&logo=#61DAFB&logoColor=white"/>
 <!--
 **baejimil/baejimil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
