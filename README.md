@@ -14,15 +14,16 @@
 ***
 * **가천대학교, 대한민국**, 2014-2020, IT대학 전자공학과, 학사
 
-### 3. Programming Skill 및 컴퓨터 지식💻
+### 3. 경험 및 이력💻
 ***
 * 이즈미디어 H/W개발 부서에서 2개월간 단기 현장실습 진행 ( 보드판에 FND를 이용하여 스톱워치 구현 )
 * 대학교애서 진행하는 공모전에서 C언어를 사용하여 거리에 대한 센서의 값을 받아 카드 잔액이 차감되는 교통카드 하이패스 단말기 제작
 * 한국표준협회에서 진행하는 혁신성장 청년인재 집중양성 6개월 과정 이수
 * 위 과정에서 참여한 팀프로젝트 MDCIM System 백엔드 서버 담당 [MDCIM System](https://github.com/baejimil/Project_final)
 * 한국기술교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료 ( 로봇 팔 제어 순서도 직접 작성하고 프로그램 이용하여 물건 위치 옮기기, 여러 개의 장애물 수거 등 )
+
+### 4. 토이 프로젝트📚
 * 
-* 2022.08, 1주차 : 비정형 데이터 활용 분석 프로젝트
 * 2022.08, 2주차 : 머신러닝 이론 및 실습
 * 2022.08, 3주차 : 딥러닝 이론 및 실습
 * 2022.08, 4주차 : CNN & RNN
@@ -53,7 +54,50 @@ JAVA 스터디 | 2022.08 - 2022.10 | 모각코 팀원들과 일주일에 3-4회 
 
 
 
-<p class="has-line-data" data-line-start="0" data-line-end="1">&lt;a href=&quot;<a href="https://instagram.com/fivepxint">https://instagram.com/fivepxint</a>“&gt;    &lt;img         src=”<a href="http://img.shields.io/badge/-Instagram-black?style=flat&amp;logo=Instagram&amp;link=https://instagram.com/fivepxint/">http://img.shields.io/badge/-Instagram-black?style=flat&amp;logo=Instagram&amp;link=https://instagram.com/fivepxint/</a>&quot;        style=“height : auto; margin-left : 10px; margin-right : 10px;”/&gt;&lt;/a&gt;</p>
+<div align=center> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/angular.js-DD0031?style=for-the-badge&logo=angularjs&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <br>
+
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
+  <br>
+</div>
  
 <!--
 **baejimil/baejimil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
