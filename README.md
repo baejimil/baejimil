@@ -18,7 +18,7 @@
 ***
 * 대학교애서 진행하는 공모전에서 C언어를 사용하여 거리에 대한 센서의 값을 받아 카드 잔액이 차감되는 교통카드 하이패스 단말기 제작
 * 한국표준협회에서 진행하는 혁신성장 청년인재 집중양성 6개월 과정 이수
-* 위 과정에서 참여한 팀프로젝트 MDCIM System 백엔드 서버 담당 [Basic Natural Language Processing](https://github.com/cestclaire/basic_natural_language_processing)
+* 위 과정에서 참여한 팀프로젝트 MDCIM System 백엔드 서버 담당 [MDCIM System](https://github.com/baejimil/Project_final)
 * 한국기술교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료
 * 
 * 2022.08, 1주차 : 비정형 데이터 활용 분석 프로젝트
