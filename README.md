@@ -81,7 +81,6 @@ JAVA 스터디 | 2022.08 - 2022.10 | 모각코 팀원들과 일주일에 3-4회 
 ***
 * 2022.10 : 아이티센 기업 멘토링/ 팀 프로젝트 : 클라우드와 ELK를 활용한 데이터 인사이트 만들기 프로젝트
 
-<img src="https://github-readme-stats.vercel.app/api?username=baejimil&amp;show_icons=true&amp;theme=radical" alt="baejimil's github stats">  <a href="https://github.com/baejimil">
 <p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/baejimil"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p>
 
 
