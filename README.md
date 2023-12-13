@@ -23,15 +23,10 @@
 
 ### 4. 토이 프로젝트📚
 * 
-* 2022.08, 2주차 : 머신러닝 이론 및 실습
-* 2022.08, 3주차 : 딥러닝 이론 및 실습
-* 2022.08, 4주차 : CNN & RNN
-* 2022.08, 5주차 : 추천시스템 이론 및 실습
-* 2022.09 : 딥러닝 기초 및 비전 - 실습 프로젝트   
+* 
 [Image Classification](https://github.com/cestclaire/image_classification)   
 [Mask Images](https://github.com/cestclaire/mask_images)
 * 2022.10 : 자연어 처리 기초 - 실습 프로젝트 [Basic Natural Language Processing](https://github.com/cestclaire/basic_natural_language_processing)
-* 2022.10 : 아이티센 기업 멘토링/ 팀 프로젝트 : 클라우드와 ELK를 활용한 데이터 인사이트 만들기 프로젝트
 
 :wrench: Skill 
 
