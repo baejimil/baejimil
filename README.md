@@ -22,7 +22,7 @@
 * 한국기술교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료
 * 
 <img src="https://github-readme-stats.vercel.app/api?username=baejimil&amp;show_icons=true&amp;theme=radical" alt="Anurag's github stats">  <a href="https://github.com/metleeha">
-<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohbyul&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p>
+<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/metleeha"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p>
 
 * 2022.08, 1주차 : 비정형 데이터 활용 분석 프로젝트
 * 2022.08, 2주차 : 머신러닝 이론 및 실습
