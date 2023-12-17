@@ -72,8 +72,7 @@
 ***
 활동명 | 활동 내용
 --- | --- |
-uDEMY Spring Boot 3 & Spring Framework 6 마스터 (2023 Java 최신)
- | 자바 SpringBoot 및 Spring Framework를 이용하여 Spring REST API, JPA, Mysql연동 등을 공부하였고, React프론트엔드와 연동하여 풀스택 앱을 만듦 
+uDEMY Spring Boot 3 & Spring Framework 6 마스터 (2023 Java 최신) | 자바 SpringBoot 및 Spring Framework를 이용하여 Spring REST API, JPA, Mysql연동 등을 공부하였고, React프론트엔드와 연동하여 풀스택 앱을 만듦 
 JAVA 개인 공부 | 자바의 정석 책 2회독
 정보처리기사 개인 공부 | 자격증 취득을 위해 정보처리기사 교재 "수제비" 3회독하여 필기 합격, 현재 실기 준비 중 
 
