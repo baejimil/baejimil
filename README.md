@@ -22,9 +22,17 @@
 * 한국기술교육대학교에서 진행하는 K-factory 협동로봇 기술 16시간 연수 및 수료 ( 로봇 팔 제어 순서도 직접 작성하고 프로그램 이용하여 물건 위치 옮기기, 여러 개의 장애물 수거 등 )
 
 ### 4. 토이 프로젝트📚
-* 
-* 
-[Image Classification](https://github.com/cestclaire/image_classification)   
+[Todo List View]([https://github.com/baejimil/SpringBootReactTodoApp])
+* AuthContext에 username, tokenizer된 password값 저장해 다른 곳에 사용할 수 있게 함
+* Tokenizer된 password를 REST API를 호출 할 때 인증 헤더로 사용
+[Todo List Web Service]([https://github.com/baejimil/SpringBootReactTodoApp-WebService])
+* 지정한 localhost의 요청만 받을 수 있게 CorsMapping 추가 
+* jwtToken과 Spring Security filterchaind을 이용해 보안 구축
+* 전체 Todo List, 특정 Todo List, Todo List 추가, 수정 및 삭제 기능 구현
+* 로그인 시, ID를 가져와 특정 사용자의 Todo List 접속
+* Mysql을 이용하여 data.spl파일 컴파일하여 sql 구문 DB에 적용 및 데이터 저장
+
+
 [Mask Images](https://github.com/cestclaire/mask_images)
 * 2022.10 : 자연어 처리 기초 - 실습 프로젝트 [Basic Natural Language Processing](https://github.com/cestclaire/basic_natural_language_processing)
 
@@ -45,7 +53,6 @@
   <br>
   
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
   <br>
   
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
