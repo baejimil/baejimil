@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Baejimeel%20Github&fontSize=80)
-### 👋
-* 안녕하십니까 어떠한 환경에도 좋은 작용을 하며 적응하고 책임감이 강한 신입지원자 **배종현** 입니다.
+### 👋  안녕하십니까 어떠한 환경에도 좋은 작용을 하며 적응하고 책임감이 강한 신입지원자 **배종현** 입니다.
 
 
 ### 1. 개인 정보ℹ️
