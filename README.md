@@ -22,6 +22,9 @@
 
 ### 4. 토이 프로젝트📚
 ***
+[Cake Sale Blog](https://github.com/baejimil/SpringBootMyBlog)
+
+***
 [Todo List View](https://github.com/baejimil/SpringBootReactTodoApp)
 * AuthContext에 username, tokenizer된 password값 저장해 다른 곳에 사용할 수 있게 함
 * Tokenizer된 password를 REST API를 호출 할 때 인증 헤더로 사용
