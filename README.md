@@ -23,6 +23,7 @@
 ### 4. 토이 프로젝트📚
 ***
 [Cake Sale Blog](https://github.com/baejimil/SpringBootMyBlog)
+* 친구의 요청으로 시작한 주문제작 케이크 신청 블로그
 
 ***
 [Todo List View](https://github.com/baejimil/SpringBootReactTodoApp)
