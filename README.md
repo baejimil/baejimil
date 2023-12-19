@@ -80,10 +80,7 @@ uDEMY Spring Boot 3 & Spring Framework 6 마스터 (2023 Java 최신) | 자바 S
 JAVA 개인 공부 | 자바의 정석 책 2회독
 정보처리기사 개인 공부 | 자격증 취득을 위해 정보처리기사 교재 "수제비" 3회독하여 필기 합격, 현재 실기 준비 중 
 
-5. 팀 프로젝트 활동🧑‍🤝‍🧑
 ***
-* 2022.10 : 아이티센 기업 멘토링/ 팀 프로젝트 : 클라우드와 ELK를 활용한 데이터 인사이트 만들기 프로젝트
-
 <p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/baejimil"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p> 
 
 
