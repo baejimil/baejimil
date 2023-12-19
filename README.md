@@ -67,12 +67,12 @@
   <br>
 </div>
 
-### 6. 팀프로젝트📚
+### 6. 팀프로젝트🧑‍🤝‍🧑
 활동명 | 활동 내용
 --- | --- |
-데이터센터 모니터링 시스템 | API서버 구축 및 웹 연동, InfluxDB 연과 데이터 파트를 맡았으며, 멘토님이 과제로 주신 Redis, Celery, MongoDB를 개인 공부하였고 적용 과정을 직접 보여주셨습니다. 또한, 팀프로젝트 발표를 자진하여 맡아 수행하였습니다. **회사에서 실제로 납품하는 프로그램을 토대로 진행였기에 배포에 용이하게 도커화하는 것에 중점을 두었습니다.**
+데이터센터 모니터링 시스템 | API서버 구축 및 웹 연동, InfluxDB 연과 데이터 파트를 맡았으며, 멘토님이 과제로 주신 Redis, Celery, MongoDB를 개인 공부하였고 적용 과정을 직접 보여주셨습니다. 또한, 팀프로젝트 발표를 자진하여 맡아 수행하였습니다. **회사에서 실제로 납품하는 프로그램을 토대로 진행하였기에 배포에 용이하게 도커화하는 것에 중점을 두었습니다.**
 
-### 7. 수업 외 자기주도학습
+### 7. 수업 외 자기주도학습📚
 ***
 활동명 | 활동 내용
 --- | --- |
@@ -80,11 +80,11 @@ uDEMY Spring Boot 3 & Spring Framework 6 마스터 (2023 Java 최신) | 자바 S
 JAVA 개인 공부 | 자바의 정석 책 2회독
 정보처리기사 개인 공부 | 자격증 취득을 위해 정보처리기사 교재 "수제비" 3회독하여 필기 합격, 현재 실기 준비 중 
 
-<!--### 5. 팀 프로젝트 활동🧑‍🤝‍🧑
+5. 팀 프로젝트 활동🧑‍🤝‍🧑
 ***
 * 2022.10 : 아이티센 기업 멘토링/ 팀 프로젝트 : 클라우드와 ELK를 활용한 데이터 인사이트 만들기 프로젝트
 
-<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/baejimil"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p> -->
+<p class="has-line-data" data-line-start="0" data-line-end="1"><a href="https://github.com/baejimil"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baejimil&amp;layout=compact&amp;theme=dracula" alt="Top Langs"></a></p> 
 
 
 
