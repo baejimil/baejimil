@@ -22,10 +22,6 @@
 
 ### 4. 토이 프로젝트📚
 ***
-[Cake Sale Blog](https://github.com/baejimil/SpringBootMyBlog)
-* 친구의 요청으로 시작한 주문제작 케이크 신청 블로그
-
-***
 [Todo List View](https://github.com/baejimil/SpringBootReactTodoApp)
 * AuthContext에 username, tokenizer된 password값 저장해 다른 곳에 사용할 수 있게 함
 * Tokenizer된 password를 REST API를 호출 할 때 인증 헤더로 사용
@@ -36,6 +32,10 @@
 * 전체 Todo List, 특정 Todo List, Todo List 추가, 수정 및 삭제 기능 구현
 * 로그인 시, ID를 가져와 특정 사용자의 Todo List 접속
 * Mysql을 이용하여 data.spl파일 컴파일하여 sql 구문 DB에 적용 및 데이터 저장
+
+***
+[Cake Sale Blog](https://github.com/baejimil/SpringBootMyBlog)
+* 친구의 요청으로 시작한 주문제작 케이크 신청 블로그
 
 ### 5. Skill :wrench: 
 
