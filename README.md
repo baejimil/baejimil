@@ -37,6 +37,12 @@
 [Cake Sale Blog](https://github.com/baejimil/SpringBootMyBlog)
 * 친구의 요청으로 시작한 주문제작 케이크 신청 블로그
 
+***
+[Test Code Blog](https://github.com/baejimil/CakeSaleBlogSpringJpa)
+* TDD 경험을 위해 블로그 프로젝트를 처음부터 테스트 코드를 적용해가며 구축했습니다
+* "스프링부트와 AWS로 혼자 구현하는 웹서비스" 라는 도서로 공부하며 진행하였는데, 책이 오래돼어 코드도 오래된 코드였습니다. 지금은 사용하지 않는 어노테이션들과 코드들이 많아 github, 스택오버플로우 등 검색하여 해결하였습니다.
+
+
 ### 5. Skill :wrench: 
 
 <div align=center> 
