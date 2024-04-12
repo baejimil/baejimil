@@ -34,8 +34,9 @@
 * Mysql을 이용하여 data.spl파일 컴파일하여 sql 구문 DB에 적용 및 데이터 저장
 
 ***
-[Cake Sale Blog](https://github.com/baejimil/SpringBootMyBlog)
-* 친구의 요청으로 시작한 주문제작 케이크 신청 블로그
+[Cake Sale Blog](https://github.com/baejimil/Cakemall_vStella)
+* 친구의 요청으로 시작한 케이크 판매 블로그
+* README 파일에 정리해 두었습니다
 
 ***
 [Test Code Blog](https://github.com/baejimil/CakeSaleBlogSpringJpa)
