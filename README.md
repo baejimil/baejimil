@@ -28,7 +28,7 @@
 ***
 [Todo List Web Service](https://github.com/baejimil/SpringBootReactTodoApp-WebService)
 * 지정한 localhost의 요청만 받을 수 있게 CorsMapping 추가 
-* jwtToken과 Spring Security filterchaind을 이용해 보안 구축
+* jwtToken과 Spring Security filterchain을 이용해 보안 구축
 * 전체 Todo List, 특정 Todo List, Todo List 추가, 수정 및 삭제 기능 구현
 * 로그인 시, ID를 가져와 특정 사용자의 Todo List 접속
 * Mysql을 이용하여 data.spl파일 컴파일하여 sql 구문 DB에 적용 및 데이터 저장
@@ -81,7 +81,7 @@
 ### 6. 팀프로젝트🧑‍🤝‍🧑
 활동명 | 활동 내용
 --- | --- |
-데이터센터 모니터링 시스템 | API서버 구축 및 웹 연동, InfluxDB 연과 데이터 파트를 맡았으며, 멘토님이 과제로 주신 Redis, Celery, MongoDB를 개인 공부하였고 적용 과정을 직접 보여주셨습니다. 또한, 팀프로젝트 발표를 자진하여 맡아 수행하였습니다. **회사에서 실제로 납품하는 프로그램을 토대로 진행하였기에 배포에 용이하게 도커화하는 것에 중점을 두었습니다.**
+데이터센터 모니터링 시스템 | API서버 구축 및 웹 연동, InfluxDB 연동과 데이터 파트를 맡았으며, 멘토님이 과제로 주신 Redis, Celery, MongoDB를 개인 공부하였고 적용 과정을 직접 보여주셨습니다. 또한, 팀프로젝트 발표를 자진하여 맡아 수행하였습니다. **회사에서 실제로 납품하는 프로그램을 토대로 진행하였기에 배포에 용이하게 도커화하는 것에 중점을 두었습니다.**
 
 ### 7. 수업 외 자기주도학습📚
 ***
